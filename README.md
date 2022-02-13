@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Nice to meet you! </h1>
 <h3 align="center">I'm a Passionate FullStack Web Developer</h3>
 
--  💻 Currently working at <a href="https://www.availroom.com/">Availroom</a> as Frontend Lead.
+-  💻 Working at <a href="https://www.availroom.com/">Availroom</a> as Frontend Lead.
 -  🎓 Proficiency with Javascript and Typescript
 -   &nbsp;📍&nbsp;  Located in Spain
 -   ❤ I love research, coding and build things!
